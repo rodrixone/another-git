@@ -4,4 +4,6 @@ a= np.arrange(10)
 for i in a:
   i=np.random.rand(1,100)
   print(i)
+  
+  print("let's get started now")
  
